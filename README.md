@@ -49,6 +49,13 @@ Dashboard dapat diakses melalui lokal:
 http://localhost:8501
 ```
 
+atau :
+
+```text
+https://coba-lit-cloud-mw6ilb4rrnggkckodujwq.streamlit.app/
+```
+
+
 ## Fitur Dashboard
 - Filter data berdasarkan tahun.
 - Ringkasan rata-rata PM2.5, WSPM, dan RAIN.
@@ -57,3 +64,5 @@ http://localhost:8501
 - Scatter plot hubungan WSPM dan RAIN terhadap PM2.5.
 - Heatmap korelasi Spearman.
 - Kesimpulan dan rekomendasi analisis.
+
+sumber dataset : https://archive.ics.uci.edu/dataset/501/beijing+multi+site+air+quality+data
