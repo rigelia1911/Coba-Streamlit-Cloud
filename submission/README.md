@@ -14,8 +14,7 @@ submission/
 │   ├── main_data.csv
 │   └── dashboard.py
 ├── data/
-│   ├── data_1.csv
-│   └── data_2.csv
+│   ├── PRSA_Data_Dongsi_20130301-20170228.csv
 ├── notebook.ipynb
 ├── README.md
 ├── requirements.txt
@@ -44,7 +43,7 @@ Jalankan perintah:
 streamlit run dashboard/dashboard.py
 ```
 
-Dashboard dapat diakses melalui:
+Dashboard dapat diakses melalui lokal:
 
 ```text
 http://localhost:8501
